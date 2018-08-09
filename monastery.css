@@ -1,0 +1,159 @@
+
+header,footer{
+	background-color:#a04053;
+	
+}
+
+
+img
+{
+	margin:10px;
+}
+
+#information
+{	float:right;
+	height:100px;
+	line-height:40px;
+	margin-right:50px;
+	color:white;
+}
+
+#inf
+{
+	font-family:Verdana;
+	font-size:25px;
+}
+ul.menuNav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	background-color: #333;
+}
+
+.menuNav li {
+    float: left;
+	
+}
+
+.menuNav   a, .dropbtn {
+    display: inline-block;
+    color: white;
+	width:150px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.main-body
+{
+	background-image: url("9-2522017123721L.jpg");	
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+}
+.nest{
+	width:75%;
+	margin-left:12.5%;
+	background-color:#dbca74;
+	
+
+}
+.nest p{
+	padding-left:20px;
+	padding-right:20px;
+	font-size:20px;}
+.image
+{
+	width:94%;
+	padding:2%;
+	height:250px;
+}
+.nest h1{
+	font-family:Papyrus;
+	padding-left:10px;
+	color:brown;
+	font-size:50px;
+}
+table{
+	background-color:#917d7a;
+	margin:10px;
+}
+td{
+	font-size:19px;
+	padding:10px;
+	color:#071b3a;
+	
+}
+.nest h3
+{
+	background-color:#e5b5ae;
+	margin:0px;
+	margin-left:10px;
+	margin-right:10px;
+	padding-left:20px;
+}
+.t img:hover{
+	width:200px;
+}
+.foot{
+	margin-left :500px;
+}
+.foott a{
+	width: 75px;
+	padding: 14px 8px;
+	margin-top:10px;
+}
+footer h3{
+	margin-top:0px;
+	text-align:center;
+	font-family:helvetica;
+	font-size:30px;	 
+	color:#d8331a;
+	
+}
+footer p{
+	
+	text-align:center;
+	color:white;	
+}
+.pp{
+	float:right;
+	margin-right: 450px;
+}
+footer img{
+	margin-left:300px;
+	width:100px;
+	margin-top:10px;
+}
